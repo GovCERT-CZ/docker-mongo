@@ -4,7 +4,7 @@ This is Docker image for mongodb 3.2.
 
 Build docker image
     
-    $ https://github.com/GovCERT-CZ/docker-mongo
+    $ git clone https://github.com/GovCERT-CZ/docker-mongo
     $ cd docker-mongo/
     $ docker build -t <repository>/<name> .
     
